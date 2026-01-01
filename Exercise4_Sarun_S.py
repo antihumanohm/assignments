@@ -1,5 +1,5 @@
 english = 95
-business = 85
+business = 96
 comSystem = 95
 comProgram = 86
 
